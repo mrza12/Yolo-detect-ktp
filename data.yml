@@ -1,0 +1,5 @@
+path: D:/OCR KTP 2/datasetKTP
+train: D:/OCR KTP 2/datasetKTP/train/images
+val: D:/OCR KTP 2/datasetKTP/val/images
+nc: 3  # jumlah kelas (misal NIK, Nama, Alamat)
+names: ["NIK", "Nama", "Alamat"]
